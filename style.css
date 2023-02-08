@@ -1,0 +1,23 @@
+body {
+    background: url(https://www.shutterstock.com/image-illustration/modern-cars-studio-room-3d-260nw-735402217.jpg) ;
+    background-repeat : no-repeat;
+    background-size:cover;
+}
+    h1{
+        color: darkorange;
+    }
+    h2{
+        color: darkorange;
+    }
+    p{
+        color: darkorange;
+        font-size: larger;
+    }
+    a{
+        color: darkgoldenrod;
+        font-size: larger;
+        font-style: italic;
+    }
+
+
+https://www.shutterstock.com/image-illustration/modern-cars-studio-room-3d-260nw-735402217.jpg
